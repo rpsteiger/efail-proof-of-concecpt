@@ -1,0 +1,18 @@
+From: samuel.bell@emaillab.ch
+To: chris.pruett@emaillab.ch
+Content-Type: multipart/mixed;boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/html
+
+<img src="http://emaillab.ch/
+--BOUNDARY
+Content-Type: application/pkcs7-mime;smime-type=enveloped-data
+Content-Transfer-Encoding: base64
+
+>> base64 PGP here
+
+--BOUNDARY
+Content-Type: text/html
+">
+--BOUNDARY

